@@ -17,4 +17,4 @@
 
 set -x
 
-gcc -o lab3_write -O2 lab3_write.c
+gcc -o writeit.o -O2 lab_write.c
